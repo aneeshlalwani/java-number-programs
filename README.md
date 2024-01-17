@@ -12,3 +12,7 @@ A prime number is a number that is divisible only by 1 and itself. For example: 
 and 6 is not a prime number as it is divisible by 1,2,3, and 6.
   ### There are two progams of prime numbers with different logic in this repository
       PrimeNumberLogicOne.java and PrimeNumberLogicTwo.java 
+
+## 4. Palindrome String
+A palindrome is a sequence of characters that reads the same forward as backward, disregarding spaces, punctuation, and capitalization.
+ In other words, a palindrome remains unchanged when its characters are reversed. For example "level", "civic", "radar" 
