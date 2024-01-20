@@ -16,3 +16,7 @@ and 6 is not a prime number as it is divisible by 1,2,3, and 6.
 ## 4. Palindrome String
 A palindrome is a sequence of characters that reads the same forward as backward, disregarding spaces, punctuation, and capitalization.
  In other words, a palindrome remains unchanged when its characters are reversed. For example "level", "civic", "radar" 
+
+## 5. Fibonacci Series
+The Fibonacci series is a sequence of numbers in which each number (Fibonacci number) is the sum of the two preceding ones, 
+usually starting with 0 and 1. The sequence goes: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on.
