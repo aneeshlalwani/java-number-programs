@@ -4,7 +4,7 @@
 A factorial is a mathematical function, which is applied to a non-negative integer. 
 For a given positive integer "n," the factorial is the product of all positive integers less than or equal to "n."
 
-## 2. Larget Among N Digitts
+## 2. Larget Among N Digits
 An array of integer is provided, from that program would find a largest number among the elements of an array. 
 
 ## 3. Prime Number
@@ -20,3 +20,7 @@ A palindrome is a sequence of characters that reads the same forward as backward
 ## 5. Fibonacci Series
 The Fibonacci series is a sequence of numbers in which each number (Fibonacci number) is the sum of the two preceding ones, 
 usually starting with 0 and 1. The sequence goes: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on.
+
+## 6. Pascal Triangle
+Pascal's Triangle is a mathematical arrangement of numbers named after the French mathematician Blaise Pascal. 
+It starts with a single number 1 at the top, and each subsequent row is constructed by summing up the two numbers directly above a particular number in the row.
