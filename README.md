@@ -25,6 +25,6 @@ usually starting with 0 and 1. The sequence goes: 0, 1, 1, 2, 3, 5, 8, 13, 21, 3
 Pascal's Triangle is a mathematical arrangement of numbers named after the French mathematician Blaise Pascal. 
 It starts with a single number 1 at the top, and each subsequent row is constructed by summing up the two numbers directly above a particular number in the row.
 
-## 6. Leap Year
+## 7. Leap Year
 A leap year is a year with an extra day, February 29, occurring every four years to synchronize the calendar with the Earth's orbit around the sun.
 Example: 2024 is a leap year, because It contains a february 29, and 2023 is NOT a leap year, because It does not contain a February 29.
