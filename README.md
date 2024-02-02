@@ -28,3 +28,6 @@ It starts with a single number 1 at the top, and each subsequent row is construc
 ## 7. Leap Year
 A leap year is a year with an extra day, February 29, occurring every four years to synchronize the calendar with the Earth's orbit around the sun.
 Example: 2024 is a leap year, because It contains a february 29, and 2023 is NOT a leap year, because It does not contain a February 29.
+
+## 8. Perfect Number
+A perfect number is a positive integer equal to the sum of its divisors, excluding itself. For instance, 28 is a perfect number because 1 + 2 + 4 + 7 + 14 = 28.
