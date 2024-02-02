@@ -1,4 +1,4 @@
-# Java Number Programs
+# Number Programs in Java
 
 ## 1. Factorial of Number
 A factorial is a mathematical function, which is applied to a non-negative integer. 
