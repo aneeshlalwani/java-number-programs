@@ -1,4 +1,4 @@
-# Java Number Programs
+# Number Programs in Java
 
 ## 1. Factorial of Number
 A factorial is a mathematical function, which is applied to a non-negative integer. 
@@ -28,3 +28,11 @@ It starts with a single number 1 at the top, and each subsequent row is construc
 ## 7. Leap Year
 A leap year is a year with an extra day, February 29, occurring every four years to synchronize the calendar with the Earth's orbit around the sun.
 Example: 2024 is a leap year, because It contains a february 29, and 2023 is NOT a leap year, because It does not contain a February 29.
+
+## 8. Perfect Number
+A perfect number is a positive integer equal to the sum of its divisors, excluding itself. For instance, 28 is a perfect number because 1 + 2 + 4 + 7 + 14 = 28.
+
+## 9. ArmStrong Number
+An Armstrong number, also known as a narcissistic number, is a special type of integer. It is equal to the sum of its own digits, each raised to the power of the number of digits.
+For example, let's consider the number 153: 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153. 
+153 is an Armstrong number because the sum of the cubes of its digits equals the number itself.
