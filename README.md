@@ -36,3 +36,8 @@ A perfect number is a positive integer equal to the sum of its divisors, excludi
 An Armstrong number, also known as a narcissistic number, is a special type of integer. It is equal to the sum of its own digits, each raised to the power of the number of digits.
 For example, let's consider the number 153: 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153. 
 153 is an Armstrong number because the sum of the cubes of its digits equals the number itself.
+
+## 10. Strong Number
+A strong number, also known as a digital factorial, is a number whose sum of factorial digits equals the number itself. In general, if a number 'n' is a strong number, 
+the sum of the factorials of its digits will be equal to 'n'.
+For example, let's consider the number 145: 1! + 4! + 5! = 1 + 24 + 120 = 145. Hence 145 is a Strong Number.
