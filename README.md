@@ -41,3 +41,8 @@ For example, let's consider the number 153: 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153
 A strong number, also known as a digital factorial, is a number whose sum of factorial digits equals the number itself. In general, if a number 'n' is a strong number, 
 the sum of the factorials of its digits will be equal to 'n'.
 For example, let's consider the number 145: 1! + 4! + 5! = 1 + 24 + 120 = 145. Hence 145 is a Strong Number.
+
+## 11. Neon Number
+A neon number is a number where the sum of digits of square of the number is equal to the number itself. For Example: 9 is a neon number. It's square is 9 * 9 = 81, and sum of the digits 8 + 1 = 9
+1 is also a neon number
+NOTE: Except 1 and 9 there are no more neon numbers between 1 and n.
