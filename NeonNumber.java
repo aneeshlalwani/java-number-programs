@@ -1,3 +1,11 @@
+/***************
+ * A neon number is a number where the sum of digits of square of the number is equal to
+ * the number itself.
+ * For Example: 9 is a neon number. It's square is 9 * 9 = 81, and sum of the digits
+ * 8 + 1 = 9
+ * 1 is also a neon number
+ * NOTE: Except 1 and 9 there are no more neon numbers between 1 and n
+ ***************/
 import java.util.*;
 
 class NeonNumber{
