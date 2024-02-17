@@ -46,3 +46,7 @@ For example, let's consider the number 145: 1! + 4! + 5! = 1 + 24 + 120 = 145. H
 A neon number is a number where the sum of digits of square of the number is equal to the number itself. For Example: 9 is a neon number. It's square is 9 * 9 = 81, and sum of the digits 8 + 1 = 9
 1 is also a neon number
 NOTE: Except 1 and 9 there are no more neon numbers between 1 and n.
+
+## 12. Automorphic Number
+An automorphic number is a number whose square ends in the same digits as the number itself. for example: 5, 6, 25 are automorphic numbers.
+5 * 5 = 25 --> last digit is 5, 6 * 6 = 36 --> last digit is 6, 25 * 25 = 625 --> last digit is 25
